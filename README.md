@@ -27,6 +27,9 @@ Analyzed information, using the python libraries, regarding the GPP_in_billions 
 
 ## Scripts used
 [Extraction, Transformation, Loading, and the Functions called](finalproject.py)
+
 [The final csv file created for the staging](prject.csv)
+
 [The database created](MyDB.db)
+
 [The logs stored for each function](etl_project_log.txt)
