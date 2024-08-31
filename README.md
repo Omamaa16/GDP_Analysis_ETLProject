@@ -14,6 +14,8 @@ Analyzed information, using the python libraries, regarding the GPP_in_billions 
 3- Loading
 - Sqlite3
 
+![Project Architecture](GDP_Architecture.png)
+
 ## Process
 - The data was extracted using the webscraping techniques leveraged by the python libraries: urllib, requests, and beautiful soap.
 - The data was transformed from million_USD to billion_USD, converted to lower case, and the irrelevant white spaces were cleaned, using the python libraries: numpy and pandas.
