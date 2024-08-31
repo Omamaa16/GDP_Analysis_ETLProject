@@ -1,0 +1,215 @@
+,Country/Territory,GDP_USD_billions
+1, World,10556877.6
+2, United States,2685459.9
+3, China,1937358.6
+4, Japan,440973.8
+5, Germany,430885.4
+6, India,373688.2
+7, United Kingdom,315893.8
+8, France,292348.9
+9, Italy,216974.5
+10, Canada,208967.2
+11, Brazil,208123.5
+12, Russia,206264.9
+13, South Korea,172190.9
+14, Australia,170754.8
+15, Mexico,166316.4
+16, Spain,149243.2
+17, Indonesia,139177.8
+18, Netherlands,108088.0
+19, Saudi Arabia,106190.2
+20, Turkey,102930.3
+21, Switzerland,86960.1
+22, Taiwan,79072.8
+23, Poland,74888.7
+24, Argentina,64110.2
+25, Belgium,62424.8
+26, Sweden,59905.2
+27, Ireland,59409.5
+28, Thailand,57423.1
+29, Norway,55410.5
+30, Israel,53922.3
+31, Singapore,51554.8
+32, Austria,51519.9
+33, Nigeria,50660.1
+34, United Arab Emirates,49897.8
+35, Vietnam,44909.4
+36, Malaysia,44702.6
+37, Philippines,44090.1
+38, Bangladesh,42051.6
+39, Denmark,40562.6
+40, South Africa,39901.5
+41, Hong Kong,38285.4
+42, Egypt,37811.0
+43, Pakistan,109732.11
+44, Iran,36797.0
+45, Chile,35855.7
+46, Romania,34890.2
+47, Colombia,33468.9
+48, Czech Republic,33048.3
+49, Finland,30167.0
+50, Peru,26823.5
+51, Iraq,26789.3
+52, Portugal,26772.1
+53, New Zealand,25196.9
+54, Kazakhstan,24569.5
+55, Greece,23930.0
+56, Qatar,21957.0
+57, Algeria,20600.7
+58, Hungary,18850.5
+59, Kuwait,16471.3
+60, Ethiopia,15608.3
+61, Ukraine,14871.2
+62, Morocco,13878.1
+63, Slovakia,12753.3
+64, Ecuador,12129.1
+65, Dominican Republic,12128.9
+66, Puerto Rico,12083.8
+67, Kenya,11813.0
+68, Angola,11787.7
+69, Cuba,109732.11
+70, Oman,10490.2
+71, Guatemala,10230.9
+72, Bulgaria,10063.5
+73, Venezuela,9662.8
+74, Uzbekistan,9233.2
+75, Luxembourg,8697.1
+76, Tanzania,8542.1
+77, Turkmenistan,8264.9
+78, Croatia,7888.1
+79, Lithuania,7834.6
+80, Costa Rica,7777.7
+81, Uruguay,7731.3
+82, Panama,7725.7
+83, Ivory Coast,7704.7
+84, Sri Lanka,109732.11
+85, Serbia,7396.1
+86, Belarus,7354.3
+87, Azerbaijan,7003.0
+88, DR Congo,6947.4
+89, Slovenia,6810.8
+90, Ghana,6662.2
+91, Myanmar,6398.8
+92, Jordan,5206.1
+93, Tunisia,4981.5
+94, Uganda,4979.2
+95, Cameroon,4862.5
+96, Latvia,4739.8
+97, Sudan,4670.5
+98, Libya,4629.7
+99, Bolivia,4609.7
+100, Bahrain,4487.0
+101, Paraguay,4282.0
+102, Nepal,4209.7
+103, Estonia,4155.1
+104, Macau,3584.1
+105, El Salvador,3375.2
+106, Honduras,3286.0
+107, Papua New Guinea,3136.2
+108, Senegal,3122.1
+109, Cyprus,3086.4
+110, Cambodia,3062.8
+111, Zimbabwe,2993.1
+112, Zambia,2927.2
+113, Iceland,2862.5
+114, Bosnia and Herzegovina,2848.8
+115, Trinidad and Tobago,2822.3
+116, Georgia,2794.7
+117, Haiti,2658.0
+118, Lebanon,109732.11
+119, Armenia,2372.5
+120, Guinea,2333.0
+121, Burkina Faso,2107.6
+122, Mali,2077.6
+123, Gabon,2033.0
+124, Albania,2017.7
+125, Afghanistan,109732.11
+126, Mozambique,1990.9
+127, Palestine,1920.6
+128, Botswana,1957.2
+129, Yemen,1952.9
+130, Malta,1940.5
+131, Benin,1923.6
+132, Nicaragua,1728.7
+133, Jamaica,1725.4
+134, Mongolia,1690.8
+135, Niger,1661.7
+136, Guyana,1630.9
+137, Brunei,1598.8
+138, Madagascar,1596.9
+139, North Korea,109732.11
+140, Moldova,1582.9
+141, Syria,109732.11
+142, North Macedonia,1527.8
+143, Equatorial Guinea,1509.9
+144, Mauritius,1457.0
+145, Bahamas,1411.4
+146, Laos,1409.1
+147, Namibia,1348.6
+148, Rwanda,1314.9
+149, Congo,1303.1
+150, Tajikistan,1279.6
+151, Kyrgyzstan,1230.9
+152, Chad,1196.2
+153, Malawi,1127.7
+154, Mauritania,1096.6
+155, New Caledonia,109732.11
+156, Kosovo,999.0
+157, Togo,900.1
+158, Somalia,873.8
+159, Monaco,109732.11
+160, Bermuda,109732.11
+161, Montenegro,702.7
+162, South Sudan,701.2
+163, Maldives,700.4
+164, Liechtenstein,109732.11
+165, Barbados,611.7
+166, French Polynesia,109732.11
+167, Cayman Islands,109732.11
+168, Fiji,538.5
+169, Eswatini,482.4
+170, Liberia,437.5
+171, Djibouti,391.6
+172, Andorra,366.9
+173, Aruba,363.3
+174, Sierra Leone,352.0
+175, Suriname,347.0
+176, Burundi,323.4
+177, Belize,316.2
+178, Greenland,109732.11
+179, Central African Republic,273.6
+180, Curaçao,109732.11
+181, Bhutan,268.3
+182, Eritrea,266.6
+183, Lesotho,258.4
+184, Cape Verde,246.8
+185, Gambia,227.7
+186, Saint Lucia,226.2
+187, East Timor,198.8
+188, Seychelles,195.0
+189, Guinea-Bissau,188.7
+190, Antigua and Barbuda,186.4
+191, San Marino,180.7
+192, Zanzibar,109732.11
+193, Solomon Islands,170.1
+194, British Virgin Islands,109732.11
+195, Comoros,134.8
+196, Grenada,127.4
+197, Vanuatu,106.4
+198, Saint Kitts and Nevis,105.2
+199, Saint Vincent and the Grenadines,103.9
+200, Turks and Caicos Islands,109732.11
+201, Samoa,89.8
+202, Sint Maarten,109732.11
+203, Dominica,68.1
+204, São Tomé and Príncipe,62.5
+205, Tonga,54.1
+206, Micronesia,45.6
+207, Marshall Islands,29.1
+208, Cook Islands,109732.11
+209, Palau,26.2
+210, Anguilla,109732.11
+211, Kiribati,24.8
+212, Nauru,15.1
+213, Montserrat,109732.11
+214, Tuvalu,6.5

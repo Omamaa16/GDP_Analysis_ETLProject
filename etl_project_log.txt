@@ -1,0 +1,8 @@
+2024-Jun-01-20:43:04 : Extracted
+2024-Jun-01-20:43:04 : Transformed
+2024-Jun-01-20:43:04 : Loaded
+2024-Jun-01-20:43:04 : Loaded in the SQL
+2024-Jun-01-20:43:39 : Extracted
+2024-Jun-01-20:43:39 : Transformed
+2024-Jun-01-20:43:39 : Loaded
+2024-Jun-01-20:43:39 : Loaded in the SQL
